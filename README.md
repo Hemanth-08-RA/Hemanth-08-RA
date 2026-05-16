@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hemanth Balusu</h1>
-
-<h3 align="center">
-Robotics Engineer | IoT Developer | AI & Embedded Systems Enthusiast
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Hemanth+Balusu;Robotics+Engineer;IoT+Developer;AI+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
