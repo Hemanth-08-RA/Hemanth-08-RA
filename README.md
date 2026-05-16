@@ -8,15 +8,15 @@ Robotics Engineer | IoT Developer | AI & Embedded Systems Enthusiast
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hemanth-08-RA&show_icons=true&theme=radical" height="150" alt="stats graph" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hemanth-08-RA&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth-08-RA&layout=compact&theme=radical" height="150" alt="languages graph" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth-08-RA&layout=compact&langs_count=8&theme=github_dark"/>
 
 </div>
 
 ---
 
-<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="180" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 ## 👨‍💻 About Me
 
@@ -35,37 +35,27 @@ Robotics Engineer | IoT Developer | AI & Embedded Systems Enthusiast
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" height="40" alt="ros logo" />
-<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" height="40"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" alt="docker logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40"/>
 
 </div>
 
@@ -76,11 +66,11 @@ Robotics Engineer | IoT Developer | AI & Embedded Systems Enthusiast
 <div align="left">
 
 <a href="https://www.linkedin.com/in/hemanth-balusu-91a85a2b6/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:balusu.hemanth06@gmail.com" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+<a href="mailto:balusu.hemanth06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -91,7 +81,7 @@ Robotics Engineer | IoT Developer | AI & Embedded Systems Enthusiast
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanth-08-RA&theme=radical" height="220" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?user=Hemanth-08-RA&theme=github-dark&hide_border=false"/>
 
 </div>
 
