@@ -6,13 +6,9 @@ Robotics Engineer | IoT Developer | AI & Embedded Systems Enthusiast
 
 ---
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hemanth-08-RA&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth-08-RA&layout=compact&langs_count=8&theme=github_dark"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemanth-08-RA&theme=github_dark" />
+</p>
 
 ---
 
