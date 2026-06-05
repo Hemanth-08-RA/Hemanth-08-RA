@@ -10,9 +10,11 @@
 
 ---
 
-<img align="right" height="180" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
-
 ## 👨‍💻 About Me
+
+<br>
+
+<img align="right" height="220" alt="Coding Animation" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 - 🎓 Final Year B.Tech Student at **Vignan University, Vadlamudi**
 - 🤖 Passionate about **Robotics, AI, IoT & Automation**
