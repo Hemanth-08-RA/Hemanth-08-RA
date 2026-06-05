@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Hemanth+Balusu;Robotics+Engineer;IoT+Developer;AI+%26+Embedded+Systems+Enthusiast" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemanth-08-RA&theme=github_dark" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 <br>
